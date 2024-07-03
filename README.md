@@ -4,7 +4,7 @@
 
 * 📰 **Blog post**: https://calfa.fr/blog/47
 
-This repository contains raw bibliographic records of the catalog of Armenian manuscripts from San Lazzaro Island in Venice, published in 8 volumes between 1914 and 1998 by the Mekhitarist Fathers.
+This repository contains raw bibliographic records of the catalog of Armenian manuscripts from San Lazzaro Island in Venice (Mekhitarist), published in 8 volumes between 1914 and 1998 by the Mekhitarist Fathers.
 
 The catalog has been digitized by OCR in collaboration with Calfa in order to offer a fully searchable digital version. The online catalog offers a search by keywords as well as by type of writing, place of copy or even named entities. PDF volumes can be found on the site of the [Fundamental Scientific Library of NASRA](http://serials.flib.sci.am/matenagitutyun/test/index.html).
 
