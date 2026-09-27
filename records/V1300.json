@@ -1,0 +1,69 @@
+{
+  "id": "V1300",
+  "source": "Venice",
+  "collection_code": "V",
+  "number": "1300",
+  "notice": "1300",
+  "volume": "Venice_V7",
+  "title": "ԴԱՒԻԹ ԱՆՅԱՂԹ Է.",
+  "date": {
+    "from": "ԺԷ դար",
+    "to": "ԺԷ դար",
+    "display": "ԺԷ դար"
+  },
+  "fields": {
+    "numero": "1300",
+    "no_notice": "778",
+    "titre": "ԴԱՒԻԹ ԱՆՅԱՂԹ Է.",
+    "date_debut": "ԺԷ դար",
+    "date_fin": "ԺԷ դար",
+    "details_date": "ԺԷ դար",
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "71",
+    "dimensions": "10x15,2",
+    "mise_en_page": "միասիւն (6,5x11)",
+    "details_ecriture": "նոտր",
+    "types_cahiers": "Ա-Է, կը պակսի Զ թերթը",
+    "matiere_principale_id": null,
+    "details_matiere": "թուղթ",
+    "nb_lignes": "21",
+    "reliure": "թղթակազմ",
+    "etat_conservation": "բաւարար. թերթերը կազմուած են խառնակ, որոնց կարգը տե՛ս ստորեւ",
+    "copiste": "եւ այլ ծանօթութիւններ կը պակսին, որովհետեւ չունի Յիշատակարան",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": "թղ. 50ա",
+    "initiales": "կարմիր",
+    "enluminures_marginales": "թղ. 50ա",
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": "թղ. 50ա",
+    "titres_texte": "կարմիր",
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "«Ընծայեալ գերյարգելի Հայր Մինասին մերոյ Բժշկեան, ի Կէօզլովէ». Ս. Ղազար հասած ըլլալու է 1830ական թուականներուն",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "auteur": null,
+    "correcteur": null,
+    "contenu": "Մատեանս է Դաւիթ Անյաղթի Սահմանք իմաստասիրութեան։ Ձեռագիրս կազմուած է ետեւառաջ եւ միջանկեալ կը պակսի Զ թերթը։ Հետեւելով տրամաբանական կարգին՝ ունի հետեւեալ բովանդակութիւնը.\nԹղ. 50ա. «Դաւթի եռամեծի եւ Անյաղթ փիլիսոփայի, ընդդէմ չորից առարկութեանց Պեհռոնի իմաստակի, եւ Սահման եւ տըրտմութիւն (իմա՛ տրամաբանութիւն) իմաստասիրութեան. ընդ այսոսիկ հանդերձ Աստուծով եւ առաջիկա(յ) պրակք. աւգնեա՛ հոգիդ սուրբ. Որք միանգամ իմաստասիրութեան տենչան բանից եւ առ ի նմանէ հեշտութեանց ծայրիւ միայն մատին հանդիպին ճաշակեալք»։\nԹղ. 50-71ի շարունակութիւնը տե՛ս թղ. 2-49։\nԹղ. 37-38ի միջանկեալ ինկած ըլլալով Զ թերթը՝ կիսատ կը մնայ բնագրի ԺԳ պրակը, որով ամբողջութեամբ կը պակսին բնագրի ԺԴ-ԺԶ պրակները, ինչպէս նաեւ ԺԷ պրակին առաջին մասը։"
+  },
+  "images": [
+    {
+      "volume": "Venice_V7",
+      "file": "66c4cd2f-31f2-4bb8-b942-25428b280362-276.jpg"
+    }
+  ],
+  "provenance": {
+    "source_file": "1300.json",
+    "source_volume": "Venice_V7"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "V1287",
+  "source": "Venice",
+  "collection_code": "V",
+  "number": "1287",
+  "notice": "1287",
+  "volume": "Venice_V7",
+  "title": "ԵԶՆԻԿ Ա.",
+  "date": {
+    "from": "1762",
+    "to": "1762",
+    "display": null
+  },
+  "fields": {
+    "numero": "1287",
+    "no_notice": "783",
+    "titre": "ԵԶՆԻԿ Ա.",
+    "date_debut": "1762",
+    "date_fin": "1762",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": null,
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "auteur": null,
+    "correcteur": null,
+    "contenu": "Մատեանս է 1762ին Իզմիր տպագրուած Եզնիկ Կողբացիի «Գիրք ընդդիմութեանց», որու վրայ կատարուած են սակաւ սրբագրութիւններ, յարմարցնելով ՋԻԹ թուականի օրինակին։ Սրբագրութիւնները կատարած է Գէորգ Պալատեցի, իսկ գիրքին առաջին կողքին ներսի կողմը գրուած է. «Եզնեկայ գիրքս ուղղագրեալ ըստ Ձեռագրի միում, գրելոյ ի թուին Հայոց ՋԻԹ, ձեռամբ Տիրացու Գէորգի Տէր Յօհաննիսեան. եհաս առ մեզ յամի 1784, ի Հոկտեմբերի»։ Էջ 272ին ստորեւ Գէորգ Պալատեցի կու տայ ծանօթութիւն Ձեռագրին մասին, Յիշատակարանի ձեւով, հաւանաբար օգտուելով նաեւ հին Յիշատակարանէն, որ զանց եղած է. «Շնորհօք եւ ողորմութեամբն Աստուծոյ կատարեցի զգիրքս Եզնըկայ ես ապիկար Թովմա վարդապետս, ի վայելումն ամենագով վարդապետին Ներսեսի, ի թուիս Հայոց ՋԻԹ։ Յոր ապա եւ մեք հայեցեալ ուղղագրեցաք զտպեալս զայս. եւ ձեռագիր օրինակն այն էր՝ յորմէ զտպեալն հանեալ էին ի թուականութեանն Հայոց ՌՄԺԱ, յԻզմիր քաղաքին»։ Յաւելումներով սրբագրուած է նաեւ էջ 273–278, ուր կայ «Եզնեկայ վարդապետի Կողբացւոյ խրատք ոգեշահք եւ պիտանիք»։"
+  },
+  "images": [
+    {
+      "volume": "Venice_V7",
+      "file": "66c4cd2f-31f2-4bb8-b942-25428b280362-252.jpg"
+    }
+  ],
+  "provenance": {
+    "source_file": "1287.json",
+    "source_volume": "Venice_V7"
+  }
+}

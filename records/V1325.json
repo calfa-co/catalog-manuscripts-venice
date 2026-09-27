@@ -1,0 +1,69 @@
+{
+  "id": "V1325",
+  "source": "Venice",
+  "collection_code": "V",
+  "number": "1325",
+  "notice": "1325",
+  "volume": "Venice_V7",
+  "title": "ՅՈՎՀԱՆ ՕՁՆԵՑԻ Գ.",
+  "date": {
+    "from": "1806",
+    "to": "1806",
+    "display": "1806"
+  },
+  "fields": {
+    "numero": "1325",
+    "no_notice": "1936",
+    "titre": "ՅՈՎՀԱՆ ՕՁՆԵՑԻ Գ.",
+    "date_debut": "1806",
+    "date_fin": "1806",
+    "details_date": "1806",
+    "lieu_copie": "Փարիզ",
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "16",
+    "dimensions": "20x27",
+    "mise_en_page": "միասիւն",
+    "details_ecriture": "շեղագիր",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": "38",
+    "reliure": "ստուարաթուղթ",
+    "etat_conservation": "բաւարար",
+    "copiste": "Հ. Մեսրոպ Վրդ. Աղաջրաղեան, միաբան Մխիթարեան",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "auteur": null,
+    "correcteur": null,
+    "contenu": "Մատեանս է Յովհան Օձնեցիի Ճառ ընդդէմ երեւութականաց, որ մեր միաբաններէն Հ. Մեսրոպ Վրդ. Աղաջրաղեան ընդօրինակած է Փարիզի արքունի գրադարանէն, հանդերձ զոյգ Յիշատակարաններով, որոնք տեսանք նախորդ Ձեռագրին մէջ։ Ընդօրինակութեան աւարտին Հ. Մեսրոպ գրած է. թղ. 16բ. «Օրինակեալ եղեւ ի Փարիզ, ի մէջ մեծի գրատան ի հին ձեռագրէ, յամի տեառն 1806, յԱպրիլի 10. Հ. Մեսրոպ Վ. Աղաջրաղեանց»։"
+  },
+  "images": [
+    {
+      "volume": "Venice_V7",
+      "file": "66c4cd2f-31f2-4bb8-b942-25428b280362-300.jpg"
+    }
+  ],
+  "provenance": {
+    "source_file": "1325.json",
+    "source_volume": "Venice_V7"
+  }
+}

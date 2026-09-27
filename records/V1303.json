@@ -1,0 +1,69 @@
+{
+  "id": "V1303",
+  "source": "Venice",
+  "collection_code": "V",
+  "number": "1303",
+  "notice": "1303",
+  "volume": "Venice_V7",
+  "title": "ԴԱՒԻԹ ԱՆՅԱՂԹ Ժ.",
+  "date": {
+    "from": "ԺԸ դար",
+    "to": "ԺԸ դար",
+    "display": "հաւանաբար ԺԸ դար"
+  },
+  "fields": {
+    "numero": "1303",
+    "no_notice": "137",
+    "titre": "ԴԱՒԻԹ ԱՆՅԱՂԹ Ժ.",
+    "date_debut": "ԺԸ դար",
+    "date_fin": "ԺԸ դար",
+    "details_date": "հաւանաբար ԺԸ դար",
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "48",
+    "dimensions": "14x19,5",
+    "mise_en_page": "միասիւն (8,5x14)",
+    "details_ecriture": "նոտր",
+    "types_cahiers": "Ա-Զ",
+    "matiere_principale_id": null,
+    "details_matiere": "թուղթ",
+    "nb_lignes": "26",
+    "reliure": "գծաւոր զարդերով կաշի, միջուկը ստուարաթուղթ",
+    "etat_conservation": "վատ. Ձեռագրին առաջին մասը կորսուած է, իսկ միջանկեալ մկրատով կտրուած են թուղթեր՝ ընդ մէջ թղ. 3-4, 22-23, 24-25, 33-34, 45-46։ Թանաքի տեսակը վատ ըլլալով՝ սեւցուցած է գրաշարտը։ Լուսանցքներուն վրայ անվարժ ձեռքով կատարուած են թուաբանական հաշիւներ՝ արաբական թուանշաններով",
+    "copiste": "եւ այլ ծանօթութիւններ կը պակսին",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": "եւ այլ զարդեր չունի",
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": "կարմիր",
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "հաւանաբար ստացած ենք 1850-60 տարիներուն",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "auteur": null,
+    "correcteur": null,
+    "contenu": "Մատեանս է Դաւիթ Անյաղթի Վերլուծութիւն Պորփիւրի։ Թերի եւ անկատար օրինակ մըն է։ Կորսուած ըլլալով առաջին մասը, Ձեռագիրս կը սկսի Պորփիւրի Դ պրակին կէսէն. Թղ. 1ա. «... պիտանացու տրամաբանական հնարքս. եւ գիտելի է եթէ տրամաբանական այն է յորժամ ոմն հարցանէ»։ — Վերջ Թղ. 48բ. «Կատարումն եղեւ գրելոց մին մասին առաջիկա(յ) շարագրութեան Պորփիւրի»։ Ձեռագրին միջանկեալ զանազան տեղեր թուղթ կտրուած ըլլալով՝ բնագիրը կը ներկայանայ անկատար։"
+  },
+  "images": [
+    {
+      "volume": "Venice_V7",
+      "file": "66c4cd2f-31f2-4bb8-b942-25428b280362-279.jpg"
+    }
+  ],
+  "provenance": {
+    "source_file": "1303.json",
+    "source_volume": "Venice_V7"
+  }
+}

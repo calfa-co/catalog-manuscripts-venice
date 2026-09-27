@@ -1,0 +1,73 @@
+{
+  "id": "V1309",
+  "source": "Venice",
+  "collection_code": "V",
+  "number": "1309",
+  "notice": "1309",
+  "volume": "Venice_V7",
+  "title": "ԵՂԻՇԷ ՎԱՐԴԱՊԵՏ Ա.",
+  "date": {
+    "from": "1841",
+    "to": "1841",
+    "display": null
+  },
+  "fields": {
+    "numero": "1309",
+    "no_notice": "2420",
+    "titre": "ԵՂԻՇԷ ՎԱՐԴԱՊԵՏ Ա.",
+    "date_debut": "1841",
+    "date_fin": "1841",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": null,
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "auteur": null,
+    "correcteur": null,
+    "contenu": "Մատեանս է 1838ին Վենետիկ տպագրուած «Եղիշէի վարդապետի Մատենագրութիւնք»։ Գրքիս երկրորդ մասին մէջ կարգ մը հատուածները, լուսանցքներուն վրայ կատարուած են բնագրի սրբագրութիւններ։ Իսկ գրքին սկիզբը կայ հետեւեալ ծանօթութիւնը. «Զտարբերութիւնս ճառիցս Եղիշէի առաքեաց առ մեզ ի Պօլսոյ Պօղոս վարդապետ Պետրոսեան՝ եւ է ըստ օրինակին Մատենադարանին Էջմիածնայ. 1841»։\nՍրբագրուած մասերը հետեւեալներն են. «Մեկնութիւն Յեսուայ եւ դատաւորաց» առաջին հատուածը (էջ 179–193). «Ի մատնութիւնն Քրիստոսի» (էջ 234– 242). «Ի չարչարանսն Քրիստոսի» (էջ 243–255). «Ի խաչելութիւնն Քրիստոսի» (էջ 256– 267). «Ի թաղումն Քրիստոսի» (էջ 268–278). «Ի յարութիւնն Քրիստոսի» (էջ 279– 284). «Ի սուրբ առաքեալսն» (էջ 293–4)։"
+  },
+  "images": [
+    {
+      "volume": "Venice_V7",
+      "file": "66c4cd2f-31f2-4bb8-b942-25428b280362-283.jpg"
+    },
+    {
+      "volume": "Venice_V7",
+      "file": "66c4cd2f-31f2-4bb8-b942-25428b280362-284.jpg"
+    }
+  ],
+  "provenance": {
+    "source_file": "1309.json",
+    "source_volume": "Venice_V7"
+  }
+}

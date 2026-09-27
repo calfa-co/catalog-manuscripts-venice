@@ -1,0 +1,73 @@
+{
+  "id": "V1333",
+  "source": "Venice",
+  "collection_code": "V",
+  "number": "1333",
+  "notice": "1333",
+  "volume": "Venice_V7",
+  "title": "ԽՈՍՐՈՎ ԱՆՁԵՒԱՑԻ Դ.",
+  "date": {
+    "from": "1730",
+    "to": "1730",
+    "display": null
+  },
+  "fields": {
+    "numero": "1333",
+    "no_notice": "2423",
+    "titre": "ԽՈՍՐՈՎ ԱՆՁԵՒԱՑԻ Դ.",
+    "date_debut": "1730",
+    "date_fin": "1730",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": null,
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "auteur": null,
+    "correcteur": null,
+    "contenu": "Մատեանս է 1730ին Պոլիս տպագրուած Խոսրով Անձեւացիի «Գիրք որ կոչի մեկնութիւն աղօթից», որու վրայ Գէորգ Պալատեցի Տէր Յովհաննէսեան կատարած է սրբագրութիւններ, յարմարցնելով հնագոյն Ձեռագրի մը, որու մասին կու տայ սա տեղեկութիւնը.\nէջ 456. «Զպատուական գիրքս Մեկնութեան աղօթից ժամակարգութեան Հայաստանեայց եկեղեցւոյ, զոր արարեալ է մեծին Խոսրովու Անձեւացեաց եպիսկոպոսին եւ Մովսէսի ուրումն աշխատասէր վարդապետի, համեմատեալ մեր ընդ ստուգագոյն գրչագիր\nեւ վաղնջական օրինակի միոյ՝ նմանագրեցաք, ամենեւին նոյնացուցեալ ընդ նմա, ըստ նորին նմանութեան, որոյ թէպէտ չէր ցուցեալ թուական գրչութեան, սակայն ի հնութենէ գրքոյն եւ ի ձեւոյ գրոյն երեւէր լինել յոյժ վաղնջական, գրեթէ իբրեւ հինգհարիւր կամ վեցհարիւր ամաց, յոր հայելով մեր զգուշագոյն քննութեամբ եւ բարիոք նկատմամբ, զաւելորդսն եղծեալ ջնջեցաք եւ զպակասորդսն գրեալ լրացուցաք։\n«Եւ ընծայեցաք զսա սրբոյն Ղազարու որ ի Վէնէտիկ, երկուց հարազատ եղբարց Աղեքսանդր եւ Ղուկաս (Ինճիճեան) կրօնաւորաց, ի լուսաւոր շաւիղն Յիսուսի ուղեւորելոց, որպէսզի վայելեալ ի վայելս սորին, փոքր եւ զոյգն ընծայի ի մէնջ սիրով մատուցելոյ, յիշեսցեն զմեզ յաստուածահաճոյ աղօթս իւրեանց։\n«Եւ այս եղեւ յամի տեառն 1776, յՕգոստոսի 20, ի Գէորգայ ումեմնէ Կոստանդնուպօլսեցւոյ Տէր Յովհաննիսեան կոչեցելոյ»։"
+  },
+  "images": [
+    {
+      "volume": "Venice_V7",
+      "file": "66c4cd2f-31f2-4bb8-b942-25428b280362-317.jpg"
+    },
+    {
+      "volume": "Venice_V7",
+      "file": "66c4cd2f-31f2-4bb8-b942-25428b280362-318.jpg"
+    }
+  ],
+  "provenance": {
+    "source_file": "1333.json",
+    "source_volume": "Venice_V7"
+  }
+}

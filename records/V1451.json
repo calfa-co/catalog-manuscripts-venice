@@ -1,0 +1,69 @@
+{
+  "id": "V1451",
+  "source": "Venice",
+  "collection_code": "V",
+  "number": "1451",
+  "notice": "1451",
+  "volume": "Venice_V7",
+  "title": "ՅԱԿՈԲ ՂՐԻՄԵՑԻ Գ.",
+  "date": {
+    "from": "ԺԷ դար",
+    "to": "ԺԷ դար",
+    "display": "ԺԷ դար"
+  },
+  "fields": {
+    "numero": "1451",
+    "no_notice": "2703",
+    "titre": "ՅԱԿՈԲ ՂՐԻՄԵՑԻ Գ.",
+    "date_debut": "ԺԷ դար",
+    "date_fin": "ԺԷ դար",
+    "details_date": "ԺԷ դար",
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "19",
+    "dimensions": "15x20",
+    "mise_en_page": "միասիւն (11x16)",
+    "details_ecriture": "նոտր մեծ",
+    "types_cahiers": "Ա-Բ",
+    "matiere_principale_id": null,
+    "details_matiere": "թուղթ թուխ",
+    "nb_lignes": "25",
+    "reliure": "արդի ստուարաթուղթ, կազմուած ի Ս. Ղազար 1970ական թուականներուն",
+    "etat_conservation": "բաւարար",
+    "copiste": "եւ այլ ծանօթութիւններ կը պակսին, որովհետեւ չունի յիշատակարան",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": "եւ այլ զարդեր չունի",
+    "initiales": "կարմիր թանաքով են",
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": "կարմիր թանաքով են",
+    "pages_blanches": "թղ. 1ա-բ, 15բ-16բ, 17բ-19բ",
+    "colophon": null,
+    "informations_diverses": "«Ընծայ Հ. Մինաս Վրդ.ին Բժշկեան, ի Տէր Միխայէլ, ի Ստանիսլաւ, 1820»",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "auteur": null,
+    "correcteur": null,
+    "contenu": "Փոքրիկ տետրակս կը բովանդակէ Յակոբ Ղրիմեցիի Յաղագս ազգականութեան, հետեւեալ կերպով.\n1. Թղ. 2ա. «Յաղագս պսակի ամուսնացելոց Յակոբ վարդապետի Ղրիմեցոյ արարեալ. Գիտելի է զի կանոն է այնոցիկ որք սրբութեամբ սնանին եւ լինին ԺԵ տարոյ, ԺԵ տարոյ կտրիճ տղայն փեսայացու է եւ ԺԴ տարոյ աղջիկն հարսնցու է»։ — Վերջ թղ. 15ա. «Ի խնդրոյ Թումայի վարդապետի հըրեշտակաբնակ սուրբ ուխտիս Մեծոբայնաց, եւ ես ծառայաբար կատարեցի Յակոբ վարդապետս Ղրիմեցի, աշակերտ Գէորգայ վարդապետի եւ քաջ դիտապետի Եզընկացոյ, յաղագս ազգականութեանց բաժանման»։\n2. Թղ. 17ա. «Վասն Աբրահամու է այս ոտանաւորներս, ի Յայսմաւուր մէջ կար գըրեալ, ի Ներսէս կաթողիկոսէ ասացեալ. Հիւրասէր ծեր նազելի, զենոյր խօսուն գառն ի սեռի, ունէր ամուլ կին մի բարի, էր ծիծաղկոտ սառաքինի» (Հանելուկք 5)։"
+  },
+  "images": [
+    {
+      "volume": "Venice_V7",
+      "file": "66c4cd2f-31f2-4bb8-b942-25428b280362-546.jpg"
+    }
+  ],
+  "provenance": {
+    "source_file": "1451.json",
+    "source_volume": "Venice_V7"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "V1453",
+  "source": "Venice",
+  "collection_code": "V",
+  "number": "1453",
+  "notice": "1453",
+  "volume": "Venice_V7",
+  "title": "ՅԱԿՈԲ ՂՐԻՄԵՑԻ Ե.",
+  "date": {
+    "from": "ԺԸ դար",
+    "to": "ԺԸ դար",
+    "display": "ԺԸ դար"
+  },
+  "fields": {
+    "numero": "1453",
+    "no_notice": "1720",
+    "titre": "ՅԱԿՈԲ ՂՐԻՄԵՑԻ Ե.",
+    "date_debut": "ԺԸ դար",
+    "date_fin": "ԺԸ դար",
+    "details_date": "ԺԸ դար",
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "120",
+    "dimensions": "11x16,5",
+    "mise_en_page": "միասիւն (9x11,7)",
+    "details_ecriture": "նոտր անվարժ",
+    "types_cahiers": "Ա–ԺԶ",
+    "matiere_principale_id": null,
+    "details_matiere": "թուղթ",
+    "nb_lignes": "17",
+    "reliure": "դրոշմազարդ շագանակագոյն կաշի, միջուկը ստուարաթուղթ. իբր աստառ ունի երկու յունարէն տպագիր թուղթեր",
+    "etat_conservation": "խեղճ. կազմը կռնակի կողմէն ամրացած է նորագոյն կաշիով. առաջին կողմին կաշին մասամբ մաշած է եւ կը տեսնուի ստուարաթուղթը. ամրութիւնն ալ տկար",
+    "copiste": "եւ այլ ծանօթութիւններ կը պակսին, որովհետեւ չունի Յիշատակարան",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": "եւ այլ զարդեր չունի",
+    "initiales": "կարմիր թանաքով են",
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": "կարմիր թանաքով են",
+    "pages_blanches": "թղ. 119ա–120բ, ուր մանուկ մը կատարած է անվարժ գծագրութիւններ եւ օրինակած «Հայր մեր» աղօթքը",
+    "colophon": null,
+    "informations_diverses": "Պոլիսէն կամ Արաբկիրի կողմերէն բերած է Հ. Ալեքսիս վրդ. Յովսէփեան, 30 Յունուար 1903ին",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "auteur": null,
+    "correcteur": null,
+    "contenu": "Մատեանս կը բովանդակէ Յակոբ Ղրիմեցիի Մեկնութիւն տումարին, որ է՝\nԹղ. 1ա. «(Յակոբայ Ղրիմեցւոյ) Մեկնութիւն տումարի, զոր խնդրեաց Թումայ վարդապետն Մեծոփայ վանից աստուածաբնակ ուխտին եւ սիրով զհայցուածս. Զհայցուածս գերերջանիկ րաբունապետի եւ երիցս երանելոյ վեհին եռակի առաքինութեանցն կատարողի...»։ — Վերջ թղ. 118ա (հմմտ. Մտգր. Հյց. ՃԿԳ., §§ 1–2)։ Թղ. 118ա. «Փառք անբաժանելի...։ Արդ ով րաբունի եւ աստուածային իմաստութեանըն ցանկացող հոգեւոր որդեակ իմ եւ եղբայր բաղձալի վարդապետ Թումա..., ահա եւ զայս խնդիր քո կատարեցի...»։"
+  },
+  "images": [
+    {
+      "volume": "Venice_V7",
+      "file": "66c4cd2f-31f2-4bb8-b942-25428b280362-547.jpg"
+    }
+  ],
+  "provenance": {
+    "source_file": "1453.json",
+    "source_volume": "Venice_V7"
+  }
+}

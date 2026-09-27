@@ -1,0 +1,69 @@
+{
+  "id": "V1310",
+  "source": "Venice",
+  "collection_code": "V",
+  "number": "1310",
+  "notice": "1310",
+  "volume": "Venice_V7",
+  "title": "ԵՂԻՇԷ ՎԱՐԴԱՊԵՏ Բ.",
+  "date": {
+    "from": "1842",
+    "to": "1842",
+    "display": "1842"
+  },
+  "fields": {
+    "numero": "1310",
+    "no_notice": "2287",
+    "titre": "ԵՂԻՇԷ ՎԱՐԴԱՊԵՏ Բ.",
+    "date_debut": "1842",
+    "date_fin": "1842",
+    "details_date": "1842",
+    "lieu_copie": "Էջմիածին",
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "30",
+    "dimensions": "21X27",
+    "mise_en_page": "միասիւն (16X20)",
+    "details_ecriture": "շեղագիր",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": "28",
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": "Աբէլ սարկաւագ",
+    "possesseur": "Հ. Մինաս Վրդ. Բժշկեան",
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "auteur": null,
+    "correcteur": null,
+    "contenu": "Մատեանս ընդօրինակութիւն մըն է, կատարուած Էջմիածին, Աբէլ սարկաւագի գրչութեամբ, 1842ին։\nԷջ 1. «Մեկնութիւն Յեսուայ եւ Դատաւորացն զոր արարեալ է ծայրաքաղ Տեառն Եղիշէի հայոց վարդապետի. Կոչեցաւ Յեսու Նաւեանց ի տեառնէ առաջնորդ իսրայելի, ընտրեաց երկու յերիտասարդացն իսրայելի եւ առաքեաց...»։ — Վերջ էջ 30. «Եւ արդ ապախտաւոր գտաւ շնորհացն Աստուծոյ եւ մոլեկան ախտին երկիր եպագ Սամսոն եւ անդէն մերկացեալ ի շնորհացն լքաւ եւ կնատեցաւ, ուստի եւ ուստերաց եւ դստերաց հեթանոսաց յաղաւրիս համակեալ այսն եւ խաղ եղեւ նոցա, նոյնպէս եւ ամենայն Իսրայէլ։ Վախճան»։\nՅԻՇԱՏԱԿԱՐԱՆ\nԷջ 30. «Օրինակեալ յԱբէլ սարկաւագէ Էջմիածնի, ի մատենէ գրեցելոյ յամի ՁԻԹ (1280), եւ ընծայեալ ի Յովհաննէս կաթողիկոսէ առ Հայր Մինաս Վրդ. Բժշկեան, ի 1842»։"
+  },
+  "images": [
+    {
+      "volume": "Venice_V7",
+      "file": "66c4cd2f-31f2-4bb8-b942-25428b280362-284.jpg"
+    }
+  ],
+  "provenance": {
+    "source_file": "1310.json",
+    "source_volume": "Venice_V7"
+  }
+}

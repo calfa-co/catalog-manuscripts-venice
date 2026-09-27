@@ -1,0 +1,73 @@
+{
+  "id": "V1452",
+  "source": "Venice",
+  "collection_code": "V",
+  "number": "1452",
+  "notice": "1452",
+  "volume": "Venice_V7",
+  "title": "ՅԱԿՈԲ ՂՐԻՄԵՑԻ Դ.",
+  "date": {
+    "from": "ԺԸ դար",
+    "to": "ԺԸ դար",
+    "display": "ԺԸ դար"
+  },
+  "fields": {
+    "numero": "1452",
+    "no_notice": "217",
+    "titre": "ՅԱԿՈԲ ՂՐԻՄԵՑԻ Դ.",
+    "date_debut": "ԺԸ դար",
+    "date_fin": "ԺԸ դար",
+    "details_date": "ԺԸ դար",
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "58",
+    "dimensions": "11x15,5",
+    "mise_en_page": "միասիւն",
+    "details_ecriture": "բաւարար. երկու տարբեր տետրակներ են, կազմուած միասին, առաջինը մաքուր նոտրգիր, երկրորդը անվարժ նոտր, կիսատ եւ խառնակ",
+    "types_cahiers": "Ա-Բ",
+    "matiere_principale_id": null,
+    "details_matiere": "թուղթ",
+    "nb_lignes": "18 եւ 33",
+    "reliure": "մագաղաթակազմ, միջուկը ստուարաթուղթ",
+    "etat_conservation": "բաւարար. երկու տարբեր տետրակներ են, կազմուած միասին, առաջինը մաքուր նոտրգիր, երկրորդը անվարժ նոտր, կիսատ եւ խառնակ",
+    "copiste": "եւ այլ ծանօթութիւնք կը պակսին",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": "սեւ թանաքով",
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "ունեցած ենք 1791էն առաջ",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "auteur": null,
+    "correcteur": null,
+    "contenu": "Մատեանս կազմուած է երկու փոքրադիր տետրակներէ, որոնք կը բովանդակեն հետեւեալը.\n1. Էջ 1. «(Յակոբայ Ղրիմեցւոյ Մեկնութիւն տումարի). Զհայցուածս գերերջանիկ բարունապետի եւ երիցս երանելոյ վեհին եռակի առաքինութեանցն կատարողի...»: -Վերջ էջ 47, կիսատ եւ անկատար. (ամբողջական օրինակը տե՛ս. Մտգր. Հյց. ՃԿԳ., §§ 1-2):\n2. Էջ 48. «Նկատումն Արիստոտելի. Ուսուցանէ մեզ ի բնայսողութեանց այնոցիկ որ հասարակաց բնականաց գոյանան շնչականաց եւ անշնչից, զգայականաց եւ անըզգայից. եթէ այսոքիկ եօթն են թուով, նիւթ, տեսակ, շարժումն, ունայն, անբաւ, տեղի, ժամանակ. եւ թէ նիւթ եւ տեսակ...»: - Վերջ էջ 58 (անկատար գրութիւն):"
+  },
+  "images": [
+    {
+      "volume": "Venice_V7",
+      "file": "66c4cd2f-31f2-4bb8-b942-25428b280362-546.jpg"
+    },
+    {
+      "volume": "Venice_V7",
+      "file": "66c4cd2f-31f2-4bb8-b942-25428b280362-547.jpg"
+    }
+  ],
+  "provenance": {
+    "source_file": "1452.json",
+    "source_volume": "Venice_V7"
+  }
+}

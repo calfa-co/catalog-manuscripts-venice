@@ -1,0 +1,69 @@
+{
+  "id": "V1352",
+  "source": "Venice",
+  "collection_code": "V",
+  "number": "1352",
+  "notice": "1352",
+  "volume": "Venice_V7",
+  "title": "ՄԽԻԹԱՐ ԳՕՇ Բ.",
+  "date": {
+    "from": "ԺԷ դար",
+    "to": "ԺԷ դար",
+    "display": "ԺԷ դար"
+  },
+  "fields": {
+    "numero": "1352",
+    "no_notice": "1493",
+    "titre": "ՄԽԻԹԱՐ ԳՕՇ Բ.",
+    "date_debut": "ԺԷ դար",
+    "date_fin": "ԺԷ դար",
+    "details_date": "ԺԷ դար",
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "14",
+    "dimensions": "15,5x20",
+    "mise_en_page": "երկսիւն, իւրաքանչիւրը 4,7x15",
+    "details_ecriture": "նոտր",
+    "types_cahiers": "մէկ",
+    "matiere_principale_id": null,
+    "details_matiere": "թուղթ",
+    "nb_lignes": "26",
+    "reliure": "մագաղաթակազմ, միջուկը ստուարաթուղթ",
+    "etat_conservation": "բաւարար",
+    "copiste": "Ասար Սեբաստացի",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": "տե՛ս ստորեւ",
+    "informations_diverses": "կը պակսին",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "auteur": null,
+    "correcteur": null,
+    "contenu": "Մատեանս կազմուած է 14 թուղթէ, անխորագիր, կը բովանդակէ 122 առակներ։ Ձեռագրիս սկիզբը Մխիթարեան միաբան մը գրած է. «Առակք Մխիթարայ անկարգ դասաւորեալ, խառնութեամբ այլ եւս առակաց ոմանց անյարդ եւ ռամկական շարագրութեամբ»։ Կու տանք սկզբնաւորութիւնը եւ վերջը.\nԹղ. 1ա. «Բանք առակաւորք. Ասաց ոմն յիմաստասիրացն. Թէ որ ունի խելս եւ իմաստութիւնս, ունի գանձս բազումս, թէպէտ եւ աղքատ է նայ։ Իսկ որ ունի գանձս բազումս եւ խելս եւ իմաստութիւն ոչ ունի, աղքատ է նայ, զի փութով կորուսանէ զգանձն անմտութեամբն իւրով։ Եւ այլ ոմն իմաստասէր...»։ — Վերջ թղ. 14բ. «Ասացեալ է ծնողն զաւակին թէ զքեզ վաստակել եմ. ասէ ինձ ինչ զքո կամքդ ես արել. ասէ, զքեզ սնուցել եմ։ Ասէ, շունն այլ զիր ձագն կու սնցնէ։ Ասէ, զքեզ ի վարպետ եմ տվել եւ արւեստ ուսուցել։ Յայնժամ ցածցել զձեռքն է պագել»։\nՅԻՇԱՏԱԿԱՐԱՆ\nԲնագրին գրչութեամբ.\nԹղ. 14բ. «Զանիմաստ ծառայս Ասար Սեբաստացի, յիշեցէք եւ ասացէք զԱստուած ողորմի. ամէն»։"
+  },
+  "images": [
+    {
+      "volume": "Venice_V7",
+      "file": "66c4cd2f-31f2-4bb8-b942-25428b280362-362.jpg"
+    }
+  ],
+  "provenance": {
+    "source_file": "1352.json",
+    "source_volume": "Venice_V7"
+  }
+}

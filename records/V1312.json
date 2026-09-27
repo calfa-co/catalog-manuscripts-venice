@@ -1,0 +1,69 @@
+{
+  "id": "V1312",
+  "source": "Venice",
+  "collection_code": "V",
+  "number": "1312",
+  "notice": "1312",
+  "volume": "Venice_V7",
+  "title": "ԵՂԻՇԷ ՎԱՐԴԱՊԵՏ Դ.",
+  "date": {
+    "from": "1849",
+    "to": "1849",
+    "display": null
+  },
+  "fields": {
+    "numero": "1312",
+    "no_notice": "2124",
+    "titre": "ԵՂԻՇԷ ՎԱՐԴԱՊԵՏ Դ.",
+    "date_debut": "1849",
+    "date_fin": "1849",
+    "details_date": null,
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": null,
+    "mise_en_page": null,
+    "details_ecriture": null,
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": null,
+    "reliure": null,
+    "etat_conservation": null,
+    "copiste": null,
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": null,
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "auteur": null,
+    "correcteur": null,
+    "contenu": "Մեր Գրադարանի թիւ 2479 Ձեռագիրը (տե՛ս վերեւ), ընդօրինակութիւն մըն է Էջմիածնի գրադարանի մէկ գրչագրին, որու Յիշատակարանը եւս հրատարակեցինք վերեւ։ Ներկայ Ձեռագրիս (Ձեռ. 2124) գրիչն ալ, «Սերովբէ Պետրոսեան, մանկավարժ Տատեան տան», տեսած է Էջմիածնի յիշեալ գրչագիրը եւ համեմատելով Եղիշէի 1838ին Վենետիկ տպուած ճառերուն հետ՝ նշանակած է տարբերակները, եւ կամ ամբողջութեամբ ընդօրինակած է թերի հատուածները՝ 63 էջերու մէջ։ Սերովբէ Պետրոսեան կու տայ ծանօթութիւն բնագրին մասին՝ գրելով էջ 65. «Ի վերջկոյս մատենին, նոր եւ այլով գրչաւ ընդ այլ աւելորդսն կայր եւ այս ինչ. ՙՀրց. Հայր իմ ծնաւ զիս ի մօրէ իմմէ, եւ ես ծնայ զմայր որդւոյ իմոյ, եւ որդիք իմ ծնան զմայր հօր իմոյ։ Մի այս ունի բազմոտանի եւ գիսաւոր ընթացք, ունի ի խորս անճառ զննեալ, նստի իւ յանջրդիս եւ մեռանի։ Թէ դպիր ես նա՛ կարդա՛, թէ չես՝ վզիդ տուր հազայ (թերեւս հալզայ)»։"
+  },
+  "images": [
+    {
+      "volume": "Venice_V7",
+      "file": "66c4cd2f-31f2-4bb8-b942-25428b280362-286.jpg"
+    }
+  ],
+  "provenance": {
+    "source_file": "1312.json",
+    "source_volume": "Venice_V7"
+  }
+}

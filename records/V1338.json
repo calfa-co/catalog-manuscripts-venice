@@ -1,0 +1,69 @@
+{
+  "id": "V1338",
+  "source": "Venice",
+  "collection_code": "V",
+  "number": "1338",
+  "notice": "1338",
+  "volume": "Venice_V7",
+  "title": "ԳՐԻԳՈՐ ՄԱԳԻՍՏՐՈՍ Ե.",
+  "date": {
+    "from": "1852",
+    "to": "1852",
+    "display": "տարի՝ 1852"
+  },
+  "fields": {
+    "numero": "1338",
+    "no_notice": "855",
+    "titre": "ԳՐԻԳՈՐ ՄԱԳԻՍՏՐՈՍ Ե.",
+    "date_debut": "1852",
+    "date_fin": "1852",
+    "details_date": "տարի՝ 1852",
+    "lieu_copie": "Փարիզ",
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "292",
+    "dimensions": "18x22",
+    "mise_en_page": "միասիւն",
+    "details_ecriture": "շեղագիր",
+    "types_cahiers": null,
+    "matiere_principale_id": null,
+    "details_matiere": null,
+    "nb_lignes": "24",
+    "reliure": "կիսալաթ ստուարաթուղթ",
+    "etat_conservation": "բաւարար",
+    "copiste": "Յովհաննէս Էմինեան",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": null,
+    "initiales": null,
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": "բնագրին թանաքով",
+    "pages_blanches": null,
+    "colophon": "տե՛ս ստորեւ",
+    "informations_diverses": null,
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "auteur": null,
+    "correcteur": null,
+    "contenu": "Անուանաթերթին համաձայն, Ձեռագիրս օրինակուած է Մկրտիչ Էմինեանի, որ ի Մոսկուայ, օրինակին վրայէն. նոյն այս Ձեռագրին վրայ կարմիր մելանով կատարուած են սրբագրութիւններ՝ հետեւելով Էջմիածնի օրինակի մը։ Ունի հետեւեալը.\n1. էջ 1. «Գրիգորի Մագիստրոսի գերապանծ իշխանի Պահլաւունոյ հայոց յարքայութեանն Կիլիկեցւոց իմաստնագոյն իմաստասիրի եւ կորովաբան հռետորի, Պատասխանի թղթոյն կաթողիկոսին Ասորւոց...». (հմմտ. Հտ. Զ, էջ 72–77, §§ 5–47)։\n2. էջ 209. «Առ հայր Սոսթանէս» (հմմտ. Գր. Մագիստրոս Ա., §§ 2–44)։\n3. էջ 289. «Ներհուն նպաստ նահան նեռին նորին կիզողական, ներլուն նաւթեան նախկին նոյեան նմին իւր պահապան. Գամաղտական զեղանամ չոհացեալ քեզ յայզմ պատահեալ տառի» (սկ. «Գրիգոր Մագիստրոս»)։\n4. էջ 292. «Առ ոմն որ իմաստասէր ոչ ուղղապէս. Ոմն անուն Պենտոկլէս ի պագնասոս տօնէր Դիոնիսեայ»։ — Վերջ անդ։\nՅԻՇԱՏԱԿԱՐԱՆ\nԱնուանաթեր. «Գրիգորի Մագիստրոսի Թուղթք, գաղափարեալք յօրինակէն Էմինեան Մկրտչի ի Մոսկուա, 22 Աւգոստոսի 1852։ Եւ բաղդատեալ կարմրագեղով ընդ օրինակի միում յԷջմիածին։ Բարիզ, Հոկտ. 1866, Յովհաննէս Էմինեան, աշակերտ Մուրատեան վարժարանի»։"
+  },
+  "images": [
+    {
+      "volume": "Venice_V7",
+      "file": "66c4cd2f-31f2-4bb8-b942-25428b280362-325.jpg"
+    }
+  ],
+  "provenance": {
+    "source_file": "1338.json",
+    "source_volume": "Venice_V7"
+  }
+}

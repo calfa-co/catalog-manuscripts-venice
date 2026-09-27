@@ -1,0 +1,69 @@
+{
+  "id": "V1401",
+  "source": "Venice",
+  "collection_code": "V",
+  "number": "1401",
+  "notice": "1401",
+  "volume": "Venice_V7",
+  "title": "ՎԱՀՐԱՄ ՎԱՐԴԱՊԵՏ Դ.",
+  "date": {
+    "from": "ԺԸ դար",
+    "to": "ԺԸ դար",
+    "display": "ԺԸ դար"
+  },
+  "fields": {
+    "numero": "1401",
+    "no_notice": "1869",
+    "titre": "ՎԱՀՐԱՄ ՎԱՐԴԱՊԵՏ Դ.",
+    "date_debut": "ԺԸ դար",
+    "date_fin": "ԺԸ դար",
+    "details_date": "ԺԸ դար",
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": "72",
+    "dimensions": "12x18",
+    "mise_en_page": "միասիւն",
+    "details_ecriture": "նոտր",
+    "types_cahiers": "Ա-Գ",
+    "matiere_principale_id": null,
+    "details_matiere": "թուղթ",
+    "nb_lignes": "21",
+    "reliure": "թղթակազմ",
+    "etat_conservation": "բաւարար",
+    "copiste": "եւ այլ ծանօթութիւններ կը պակսին",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": "եւ այլ զարդեր չունի",
+    "initiales": "բնագրին թանաքով",
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": "բնագրին թանաքով",
+    "pages_blanches": null,
+    "colophon": null,
+    "informations_diverses": "կը պակսին",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "auteur": null,
+    "correcteur": null,
+    "contenu": "Մատենաս է Վահրամ Վարդապետի գրութիւնը, որ է՝\nէջ 1. «Պատմութիւն Հայոց ազգի, գրեալ ոտիւն չափոյ բանի, Վահրամայ վարդապետի, Կիլիկեցւոյ Սբսոյ քաղքի. Տէր Ներսէսի լուսազարդեալ, հայրապետին զայս բան գրեալ, ըզպատմութիւնս հայոց առեալ, ոտանաւոր տաղիւ չափեալ, առ ի նախնեաց անտի սկըսեալ, եւ մինչեւ յինքն հասուցեալ»։ - Վերջ էջ 72. «Որոյ մասին արժանասցի, Լեւոն արքայն հայոց զարմի, եւ յարմարող յայսմ բանի, որ եւ զսա վերծանեսցի, ի փառս անճանցն որ երրակի, աստուածութեանն միակի, որ է օրհնեալ յամենայնի, այժմ եւ ամբաւ յաւիտենի»։"
+  },
+  "images": [
+    {
+      "volume": "Venice_V7",
+      "file": "66c4cd2f-31f2-4bb8-b942-25428b280362-436.jpg"
+    }
+  ],
+  "provenance": {
+    "source_file": "1401.json",
+    "source_volume": "Venice_V7"
+  }
+}

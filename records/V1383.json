@@ -1,0 +1,69 @@
+{
+  "id": "V1383",
+  "source": "Venice",
+  "collection_code": "V",
+  "number": "1383",
+  "notice": "1383",
+  "volume": "Venice_V7",
+  "title": "ԳԷՈՐԳ ՍԿԵՒՌԱՑԻ Զ.",
+  "date": {
+    "from": "ԺԷ դար",
+    "to": "ԺԷ դար",
+    "display": "ԺԷ դար"
+  },
+  "fields": {
+    "numero": "1383",
+    "no_notice": "2453",
+    "titre": "ԳԷՈՐԳ ՍԿԵՒՌԱՑԻ Զ.",
+    "date_debut": "ԺԷ դար",
+    "date_fin": "ԺԷ դար",
+    "details_date": "ԺԷ դար",
+    "lieu_copie": null,
+    "reference": null,
+    "genre_id": null,
+    "nb_pages": null,
+    "dimensions": "15,5x21,8",
+    "mise_en_page": "միասիւն (12x17)",
+    "details_ecriture": "նոտր",
+    "types_cahiers": "Ա-ԼԱ",
+    "matiere_principale_id": null,
+    "details_matiere": "թուղթ տոկուն եւ սպիտակ",
+    "nb_lignes": "28",
+    "reliure": "ոսկեգոյն շրջանակով նուրբ կաշի, միջուկը ստուարաթուղթ",
+    "etat_conservation": "բաւարար. Ձեռագրիս առաջին կողքը բաժնուած է ամբողջութենէն",
+    "copiste": "եւ այլ ծանօթութիւններ կը պակսին, որովհետեւ չունի Յիշատակարան",
+    "possesseur": null,
+    "commanditaire": null,
+    "enlumineur": null,
+    "relieur": null,
+    "page_garde_parchemin": null,
+    "lettrines": "եւ այլ զարդեր չունի",
+    "initiales": "կարմիր թանաքով",
+    "enluminures_marginales": null,
+    "images": null,
+    "table_canons_1": null,
+    "table_canons_2": null,
+    "titres_texte": "կարմիր թանաքով",
+    "pages_blanches": "էջ 494-6",
+    "colophon": null,
+    "informations_diverses": "Էջք 496 ; ՏԵՂԵԿՈՒԹԻՒՆՔ: 1963ին Փարիզէն նուիրած է Տիար Ժագ Մաթոսեան",
+    "champ_libre": null,
+    "validee": false,
+    "decorations": null,
+    "traducteur": null,
+    "encre": null,
+    "auteur": null,
+    "correcteur": null,
+    "contenu": "Մատեանս է Գէորգ Սկեւռացիի Մեկնութիւն Եսայիի մարգարէութեան.\nէջ 1. «Համառօտ մեկնութիւն սուրբ մարգարէին Եսայեայ, ի լուսաւոր մեկնչացն տեառն Եփրեմի Խորին ասորւոյ, Յոհաննու Ոսկեբերանի, Կիւրղի Աղեքսանդրացւոյ, հրամանաւ տեառն Հայոց Հեթմոյ, լուսաւոր վարդապետի Գէորգեայ ասացեալ. Ծածուկ միշտ եւ անյայտ են բանք օրինացն եւ մարգարէից»։ - Վերջ էջ 492. «վարս արժանի անուանն ցուցցուք, զի եւ մարդասիրութեանըն Քրիստոսի արժանի լիցուք եւ երկնից արքայութեանն, ի հայր եւ յորդի եւ ի սուրբ հոգին պայծառացեալք, որում ամենայն փառք եւ զօրութիւն յաւիտեանս յաւիտենից. ամէն. վերջ»։ էջ 493. «Փառք...։ Այժմ ի թուականիս հայկազեան տումարիս ՉԽԷ (1298)... համառօտ զուգեաց առ իրեարս, եւ զմտացն ամբողջ ունելով ըզզօրութիւն եւ գրեալ ձեռամբ իւրով ետ նմա» (հմմտ. Խաչիկեան Լ., Հայերէն Ձեռագրերի Յիշատակարաններ, ԺԳ դար, Երեւան, 1984, էջ 832-3)։"
+  },
+  "images": [
+    {
+      "volume": "Venice_V7",
+      "file": "66c4cd2f-31f2-4bb8-b942-25428b280362-412.jpg"
+    }
+  ],
+  "provenance": {
+    "source_file": "1383.json",
+    "source_volume": "Venice_V7"
+  }
+}
