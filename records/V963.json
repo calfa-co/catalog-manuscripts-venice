@@ -1,0 +1,28 @@
+{
+  "id": "V963",
+  "source": "Venice",
+  "collection_code": "V",
+  "number": "963",
+  "notice": "963",
+  "volume": "Venice_V1-V6",
+  "title": "ՊԱՏՄԱԳԻՐՔ ՀԱՅՈՑ ՂԲ",
+  "date": {
+    "from": "1832",
+    "to": "1832",
+    "display": null
+  },
+  "fields": {
+    "numero": "963",
+    "titre": "ՊԱՏՄԱԳԻՐՔ ՀԱՅՈՑ ՂԲ",
+    "no_notice": "61",
+    "date_debut": "1832",
+    "date_fin": "1832",
+    "informations_diverses": "Մատեանս է 1832ին Վենետիկ տպագըրուած «Պատմութիւն Տարօնոյ», Ջենոբ Գլակի եւ Յովհան Մամիկոնեանի։ Հատորս պատկանած է Հ. Արսէն Վրդ. Բագրատունիի, որ տպագրին վրայ կատարած է իր մանր դիտողութիւնները։"
+  },
+  "images": [],
+  "provenance": {
+    "source_collection": "Venice",
+    "source_group": "Venice_V1-V6",
+    "source_file": "963.json"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "V971",
+  "source": "Venice",
+  "collection_code": "V",
+  "number": "971",
+  "notice": "971",
+  "volume": "Venice_V1-V6",
+  "title": "ՊԱՏՄԱԳԻՐՔ ՀԱՅՈՑ Ճ. ԹՈՎՄԱ ԱՐԾՐՈՒՆԻ",
+  "date": {
+    "from": "1839",
+    "to": "1839",
+    "display": null
+  },
+  "fields": {
+    "numero": "971",
+    "titre": "ՊԱՏՄԱԳԻՐՔ ՀԱՅՈՑ Ճ. ԹՈՎՄԱ ԱՐԾՐՈՒՆԻ",
+    "no_notice": "2259",
+    "date_debut": "1839",
+    "date_fin": "1839",
+    "informations_diverses": "Ձեռագիրս հաւատարիմ ընդօրինակութիւնն է 1830ին Պոլիսէն հասած Թովա Արծրունիի Ձեռագրին (Պտմգ. Հյց. ՂԲ.)։ Օրինակութիւնը կատարած է միաբան մը, Միաբանութեանս ամառանոցը, Փիէսսոյ, 28 մայիս - 26 Յունիս 1839ին։"
+  },
+  "images": [],
+  "provenance": {
+    "source_collection": "Venice",
+    "source_group": "Venice_V1-V6",
+    "source_file": "971.json"
+  }
+}

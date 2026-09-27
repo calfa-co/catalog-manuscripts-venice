@@ -71,7 +71,8 @@
     }
   ],
   "provenance": {
-    "source_file": "1237.json",
-    "source_volume": "Venice_V7"
+    "source_collection": "Venice",
+    "source_volume": "Venice_V7",
+    "source_file": "1237.json"
   }
 }

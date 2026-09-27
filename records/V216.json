@@ -1,0 +1,28 @@
+{
+  "id": "V216",
+  "source": "Venice",
+  "collection_code": "V",
+  "number": "216",
+  "notice": "216",
+  "volume": "Venice_V1-V6",
+  "title": "ՃԱՌԸՆՏԻՐ ԺԷ",
+  "date": {
+    "from": "1821",
+    "to": "1821",
+    "display": null
+  },
+  "fields": {
+    "numero": "216",
+    "titre": "ՃԱՌԸՆՏԻՐ ԺԷ",
+    "no_notice": "2437",
+    "date_debut": "1821",
+    "date_fin": "1821",
+    "informations_diverses": "Ճառընտիրս է նոտրագիր նոր, որ կը պարունակէ Աթանասի և Կիւրղի ճառերն ընդհանրապէս։ Ընդօրինակուած ըլլալով ի հին երկաթագիր Ճառընարէն (Թ. 300.), զորցուցակագրեցինք արդէն, ուստի աւելորդ կը համարինք վերստին ցանկել։"
+  },
+  "images": [],
+  "provenance": {
+    "source_collection": "Venice",
+    "source_group": "Venice_V1-V6",
+    "source_file": "216.json"
+  }
+}

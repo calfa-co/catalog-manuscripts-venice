@@ -1,0 +1,44 @@
+{
+  "id": "V1112",
+  "source": "Venice",
+  "collection_code": "V",
+  "number": "1112",
+  "notice": "1112",
+  "volume": "Venice_V1-V6",
+  "title": "ՆԵՐՍԷՍ ՇՆՈՐՀԱԼԻ Ծ",
+  "date": {
+    "from": "1746",
+    "to": "1746",
+    "display": "1766։ -"
+  },
+  "fields": {
+    "numero": "1112",
+    "titre": "ՆԵՐՍԷՍ ՇՆՈՐՀԱԼԻ Ծ",
+    "no_notice": "307",
+    "date_debut": "1746",
+    "date_fin": "1746",
+    "details_date": "1766։ -",
+    "nb_pages": "173։ -",
+    "dimensions": "10,5x16։ -",
+    "mise_en_page": "միասիւն (6,2x12,2)։ -",
+    "details_ecriture": "նօտր մանր։ -",
+    "types_cahiers": "չեն նշուած։ -",
+    "details_matiere": "թուղթ փայլուն։ -",
+    "nb_lignes": "18։ -",
+    "reliure": "ոսկեդրոշմ սեւ կաշի, միջուկը տախտակ։ -",
+    "etat_conservation": "շատ լաւ։ -",
+    "copiste": "եւ այլ ծանօթութիւններ կը պակսին։ -",
+    "lettrines": "Իւ այլ զարդեր չունի։ -",
+    "initiales": "կարմիր։ -",
+    "images": "թղ. 2բ, տպագիր։ -",
+    "titres_texte": ",",
+    "pages_blanches": "թղ. 59բ, 92բ-95բ, 137ա-բ, 153ա-բ, 165բ-175բ։ -",
+    "informations_diverses": "կը"
+  },
+  "images": [],
+  "provenance": {
+    "source_collection": "Venice",
+    "source_group": "Venice_V1-V6",
+    "source_file": "1112.json"
+  }
+}

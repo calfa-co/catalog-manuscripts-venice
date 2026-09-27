@@ -1,0 +1,28 @@
+{
+  "id": "V981",
+  "source": "Venice",
+  "collection_code": "V",
+  "number": "981",
+  "notice": "981",
+  "volume": "Venice_V1-V6",
+  "title": "ՊԱՏՄԱԳԻՐՔ ՀԱՅՈՑ ՃԺ. ԱԳԱԹԱՆԳԵՂՈՍ",
+  "date": {
+    "from": "1862",
+    "to": "1862",
+    "display": null
+  },
+  "fields": {
+    "numero": "981",
+    "titre": "ՊԱՏՄԱԳԻՐՔ ՀԱՅՈՑ ՃԺ. ԱԳԱԹԱՆԳԵՂՈՍ",
+    "no_notice": "2432",
+    "date_debut": "1862",
+    "date_fin": "1862",
+    "informations_diverses": "Մատեանս 1862ին Վենետիկ տպագըրուած Ագաթանգեղոսի Պատմութիւնն է, որու վրայ անցած են ձեռագրի մը տարբերակները։ Չէ՛ նշանակուած թէ ո՛ր Ձեռագրին հետեւողութեամբ կատարուած է աշխատութիւնը։"
+  },
+  "images": [],
+  "provenance": {
+    "source_collection": "Venice",
+    "source_group": "Venice_V1-V6",
+    "source_file": "981.json"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "V935",
+  "source": "Venice",
+  "collection_code": "V",
+  "number": "935",
+  "notice": "935",
+  "volume": "Venice_V1-V6",
+  "title": "ՊԱՏՄԱԳԻՐՔ ՀԱՅՈՑ ԿԴ. ՂԱԶԱՐ ՓԱՐՊԵՑԻ",
+  "date": {
+    "from": "1793",
+    "to": "1793",
+    "display": null
+  },
+  "fields": {
+    "numero": "935",
+    "titre": "ՊԱՏՄԱԳԻՐՔ ՀԱՅՈՑ ԿԴ. ՂԱԶԱՐ ՓԱՐՊԵՑԻ",
+    "no_notice": "2569",
+    "date_debut": "1793",
+    "date_fin": "1793",
+    "informations_diverses": "Հատորը Ղազար Փարպեցիի Պատմութիւնն է, տպուած Վենետիկ, 1793ին։ Հատորիս 35-65 էջերը, ուր կայ Սահակ Պարթեւի տեսիլքը, սրբագրուած է Ձեռագրի մը համաձայն, սակայն չէ նշանակուած Ձեռագրին թուականը կամ վայրը։"
+  },
+  "images": [],
+  "provenance": {
+    "source_collection": "Venice",
+    "source_group": "Venice_V1-V6",
+    "source_file": "935.json"
+  }
+}

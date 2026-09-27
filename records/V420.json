@@ -1,0 +1,44 @@
+{
+  "id": "V420",
+  "source": "Venice",
+  "collection_code": "V",
+  "number": "420",
+  "notice": "420",
+  "volume": "Venice_V1-V6",
+  "title": "ՄԱՇՏՈՑ ՃԱ",
+  "date": {
+    "from": "ԺԷ դար",
+    "to": "ԺԸ դար",
+    "display": "գիրէն դատելով՝ Ժէ կամ ԺԸ դար։ -"
+  },
+  "fields": {
+    "numero": "420",
+    "titre": "ՄԱՇՏՈՑ ՃԱ",
+    "no_notice": "1348",
+    "date_debut": "ԺԷ դար",
+    "date_fin": "ԺԸ դար",
+    "details_date": "գիրէն դատելով՝ Ժէ կամ ԺԸ դար։ -",
+    "nb_pages": "20։ -",
+    "dimensions": "20,4x14 (19,7 x13,5)։ -",
+    "mise_en_page": "միասիւն (15,2x10)։",
+    "details_ecriture": "բոլորգիր միջակ։ -",
+    "types_cahiers": "3, որոնցմէ ա, բ ունին 8 թո. իսկ գ՝ 4 թղ։ -",
+    "details_matiere": "թուղթ սպիտակ փայլուն՝ քիչ մը հաստ։ -",
+    "nb_lignes": "10։ -",
+    "reliure": "արդի, կակուղ խաւաքարտի վրայ պատած սպիտակ դեղնագոյն փայլուն մագաղա»։",
+    "etat_conservation": "շատ լաւ։ Սա՝ ամբողջական մաշտոցի մը իա, իր, իգ թերթերը մեզի կու տայ, եւ նոյն գիրքին ԼԲ կանոնը ամբողջութեամբ։ -",
+    "lettrines": ",",
+    "enluminures_marginales": "Թղ. 1ա, բայց անարծէք քաներ։ -",
+    "table_canons_1": ",",
+    "table_canons_2": ", ՆԵԱՐՔ չկան։ -",
+    "titres_texte": "կարմիր են, բայց գունաթափ։ -",
+    "pages_blanches": "Թղ. 18բ-20բ։ -",
+    "colophon": "չունենալուն՝ ոչ մէկ տեղեկութիւն ունինք անոր մաՄատեանս է մասն Մաշտոցի (տ. վերը՝ Հանգամանք) որ կը բովանդակէ միակ «Կանոն խաչ օրհնելոյ», ուրիշ մաշտոցէ մը ինկած։"
+  },
+  "images": [],
+  "provenance": {
+    "source_collection": "Venice",
+    "source_group": "Venice_V1-V6",
+    "source_file": "420.json"
+  }
+}

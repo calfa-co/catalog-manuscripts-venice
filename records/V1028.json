@@ -1,0 +1,43 @@
+{
+  "id": "V1028",
+  "source": "Venice",
+  "collection_code": "V",
+  "number": "1028",
+  "notice": "1028",
+  "volume": "Venice_V1-V6",
+  "title": "ԿԱՆՈՆԱԳԻՐՔ ԼԶ",
+  "date": {
+    "from": "ԺԸ դար",
+    "to": "ԺԸ դար",
+    "display": "ԺԸ դար։ -"
+  },
+  "fields": {
+    "numero": "1028",
+    "titre": "ԿԱՆՈՆԱԳԻՐՔ ԼԶ",
+    "no_notice": "1050",
+    "date_debut": "ԺԸ դար",
+    "date_fin": "ԺԸ դար",
+    "details_date": "ԺԸ դար։ -",
+    "nb_pages": "60։ -",
+    "dimensions": "10,5x15,3։ -",
+    "mise_en_page": "միասիւն (6x10,58)։ -",
+    "details_ecriture": "նոտր։",
+    "types_cahiers": "Ա՝ 11 թղ., Բ՝ 12 թղ., Գ՝ 10 թղ., Դ, Ե,Զ՝ 8 թղ., ապա 3 թուղթ եւս։ -",
+    "details_matiere": "թուղթ։ -",
+    "nb_lignes": "18։ -",
+    "reliure": "կեդրոնը դրոշմանիշ կաշի, թուղթէ աստառով։ -",
+    "etat_conservation": "բաւարար։ -",
+    "copiste": "եւ այլ ծանօթութիւններ կը պակսին։ -",
+    "lettrines": "եւ այլ զարդեր չունի։ -",
+    "initiales": "կարմիր։ -",
+    "titres_texte": ",",
+    "pages_blanches": "թղ. 60ա-բ։ -",
+    "informations_diverses": "կը պակսին։ Մատեանս է փոքրադիր, նոտր գրչութեամբ, ուր գրիչը առձեռն գործածութեան համար հաւաքած է մեծ Կանոնագիրքէն բազմաթիւ գործնական կանոններ, առանց հետեւելու յատուկ պատճառաբանութեան մը։ Կը սկսի Եպիփանու կանոններէն եւ քաղուածաբար կազմած է ներկայ հատորիկը (թղ. 1-59)։"
+  },
+  "images": [],
+  "provenance": {
+    "source_collection": "Venice",
+    "source_group": "Venice_V1-V6",
+    "source_file": "1028.json"
+  }
+}

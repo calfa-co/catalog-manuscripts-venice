@@ -1,0 +1,28 @@
+{
+  "id": "V704",
+  "source": "Venice",
+  "collection_code": "V",
+  "number": "704",
+  "notice": "704",
+  "volume": "Venice_V1-V6",
+  "title": "ԽՈՐՀՐԴԱՏԵՏՐ ԼԱ",
+  "date": {
+    "from": "ԺԹ դար",
+    "to": "ԺԹ դար",
+    "display": null
+  },
+  "fields": {
+    "numero": "704",
+    "titre": "ԽՈՐՀՐԴԱՏԵՏՐ ԼԱ",
+    "no_notice": "1582",
+    "date_debut": "ԺԹ դար",
+    "date_fin": "ԺԹ դար",
+    "informations_diverses": "Մատեանս է 1826ին Վենետիկ տպագըրուած Խորհրդատետր, որու վրայ խնամքով նշանակուած են Ս. Էջմիածնի Խորհրդատետրի մը տարբերակները, Կողքին վրայ գըր ուած է. «Խորհրդատետր առաքեալ յԷջմիածնայ», սակայն չէ նշանակուած ո՛չ ձեռագրին թիւը եւ ոչ տարին։"
+  },
+  "images": [],
+  "provenance": {
+    "source_collection": "Venice",
+    "source_group": "Venice_V1-V6",
+    "source_file": "704.json"
+  }
+}
